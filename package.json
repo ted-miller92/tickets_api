@@ -17,5 +17,8 @@
         "express-validator": "^7.0.1",
         "mongoose": "^7.1.0",
         "nodemon": "^2.0.22"
+    },
+    "devDependencies": {
+        "@flydotio/dockerfile": "^0.4.8"
     }
 }
